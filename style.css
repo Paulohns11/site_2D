@@ -1,3 +1,15 @@
-body{
-    background-color: aqua;
+body { 
+    background-color: #CCC; 
 }
+
+h1 {
+    color: #FF0000;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.biquinho {
+    
+}
+
