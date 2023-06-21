@@ -1,14 +1,15 @@
 body { 
-    background-color: #CCC; 
+    background: linear-gradient(to right, #E6030A, #440f0f, #FF0000) 
 }
 
 h1 {
-    color: #f10b0b;
-    font-size: 55px;
+    color: #f5eded;
+    font-size: 114px;
     text-align: center;
     text-transform: uppercase;
 }
 
 .primeiro-paragrafo{
-    font-size: 38px;
+    font-size: 28px;
+    color: #f5eded;
 }
